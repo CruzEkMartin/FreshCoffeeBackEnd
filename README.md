@@ -3,7 +3,11 @@
 
 <br/>
 
+<<<<<<< HEAD
 ## Acerca de FreshCoffe
+=======
+## Acerca de FreshCoffee
+>>>>>>> b9cbb295e836b4931fe8a7b4f49713b388159ee9
 <br/>
 3er Proyecto del Curso de Laravel 9 de Juan Pablo de la Torre. FreshCoffe es un quiosco para ordenar comida. El backend está realizado con PHP 8 y MVC, el frontend está realizado con React y TailwindCSS. Se hace uso de react-router-dom para la navegación, así como de los hooks useState, useEffect, y se crea un hook personalizado para la comunicación con el backend en Laraver a través de Axios.
 <br/>
